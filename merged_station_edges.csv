@@ -1,0 +1,170 @@
+u_merged_station_id,v_merged_station_id,edge_count,distance_m_mean,line_refs,line_names,sources
+merge::name::abiko,merge::name::kita-hanada,1,1897.358,1,Midōsuji Line,way_order
+merge::name::abiko,merge::name::nagai,1,1107.765,1,Midōsuji Line,way_order
+merge::name::asashiobashi,merge::name::ōsakakō,1,1526.275,C,line_C,ref_sequence
+merge::name::asashiobashi,merge::wikidata::Q1131017,1,1476.528,C,line_C,ref_sequence
+merge::name::awaza,merge::name::nishi-nagahori,1,863.233,S,line_S,ref_sequence
+merge::name::awaza,merge::name::tamagawa,1,1272.759,5,Senchimae Line,way_order
+merge::name::awaza,merge::wikidata::Q304193,1,661.64,S,line_S,inferred_no_ref
+merge::name::daido-toyosato,merge::wikidata::Q1042508,1,1727.049,8,Osaka Metro今里筋線,way_order
+merge::name::daido-toyosato,merge::wikidata::Q180497,1,920.389,8,Osaka Metro今里筋線,way_order
+merge::name::daikokucho,merge::wikidata::Q1038365,1,1008.978,M,line_M,ref_sequence
+merge::name::daikokucho,merge::wikidata::Q126102,1,1334.355,Y,line_Y,ref_sequence
+merge::name::daikokucho,merge::wikidata::Q20080133,1,1116.503,Y,line_Y,ref_sequence
+merge::name::esaka,merge::wikidata::Q1136561,1,1974.078,M,line_M,ref_sequence
+merge::name::esaka,merge::wikidata::Q59455,1,1847.893,M,line_M,inferred_no_ref
+merge::name::imazato,merge::name::shin-fukae,1,943.683,5,Senchimae Line,way_order
+merge::name::imazato,merge::name::tsuruhashi,1,1399.865,S,line_S,ref_sequence
+merge::name::itakano,merge::wikidata::Q1042508,1,3283.02,I,line_I,inferred_no_ref
+merge::name::itakano,merge::wikidata::Q180497,1,901.05,8,Osaka Metro今里筋線,way_order
+merge::name::kita-hanada,merge::name::shin-kanaoka,1,1536.995,M,line_M,ref_sequence
+merge::name::kita-tatsumi,merge::name::shoji,1,888.79,S,line_S,ref_sequence
+merge::name::kita-tatsumi,merge::wikidata::Q126112,1,1236.437,S,line_S,ref_sequence
+merge::name::minoh-kayano,merge::wikidata::Q2056658,1,2450.059,M,line_M,inferred_no_ref
+merge::name::minoh-semba handai-mae,merge::wikidata::Q2056658,1,1396.837,M,line_M,inferred_no_ref
+merge::name::minoh-semba handai-mae,merge::wikidata::Q59341,1,3256.97,M,line_M,inferred_no_ref
+merge::name::nagai,merge::name::nishi-tanabe,1,1400.644,M,line_M,ref_sequence
+merge::name::nakafuto,merge::name::フェリーターミナル,1,2296.382,P,line_P,inferred_no_ref
+merge::name::nakafuto,merge::name::ポートタウン東,1,1128.194,P,line_P,inferred_no_ref
+merge::name::nakafuto,merge::name::ポートタウン西,1,602.674,P,line_P,inferred_no_ref
+merge::name::nakafuto,merge::name::南港東,1,2968.463,P,line_P,inferred_no_ref
+merge::name::nakafuto,merge::wikidata::Q180469,1,709.259,P,line_P,ref_sequence
+merge::name::nakamozu,merge::name::shin-kanaoka,1,1591.665,M,line_M,ref_sequence
+merge::name::namba,merge::name::nippombashi,1,611.977,S,line_S,ref_sequence
+merge::name::namba,merge::name::sakuragawa,1,872.742,S,line_S,ref_sequence
+merge::name::namba,merge::wikidata::Q1040630,1,591.059,5,Senchimae Line,way_order
+merge::name::nippombashi,merge::name::tanimachi 9-chome,1,970.09,S,line_S,ref_sequence
+merge::name::nippombashi,merge::wikidata::Q1038083,1,883.707,K,line_K,inferred_no_ref
+merge::name::nippombashi,merge::wikidata::Q1040630,1,51.578,S,line_S,inferred_no_ref
+merge::name::nippombashi,merge::wikidata::Q1041977,1,862.372,5,Senchimae Line,way_order
+merge::name::nippombashi,merge::wikidata::Q2066656,1,1283.868,K,line_K,inferred_no_ref
+merge::name::nishi-nagahori,merge::name::sakuragawa,1,689.063,S,line_S,ref_sequence
+merge::name::nishi-nagahori,merge::wikidata::Q304193,1,201.757,S,line_S,inferred_no_ref
+merge::name::nishi-tanabe,merge::name::showacho,1,1296.846,M,line_M,ref_sequence
+merge::name::nodahanshin,merge::name::tamagawa,1,549.522,S,line_S,ref_sequence
+merge::name::sekime-seiiku,merge::name::shimmori-furuichi,1,1109.872,8,Osaka Metro今里筋線,way_order
+merge::name::sekime-seiiku,merge::wikidata::Q1042492,1,1373.944,I,line_I,inferred_no_ref
+merge::name::sekime-seiiku,merge::wikidata::Q1042508,1,2181.26,I,line_I,inferred_no_ref
+merge::name::shigino,merge::wikidata::Q1042492,1,867.445,I,line_I,inferred_no_ref
+merge::name::shigino,merge::wikidata::Q1131699,1,1334.784,I,line_I,inferred_no_ref
+merge::name::shimizu,merge::name::shimmori-furuichi,1,812.18,8,Osaka Metro今里筋線,way_order
+merge::name::shimizu,merge::wikidata::Q1042492,1,2687.578,I,line_I,inferred_no_ref
+merge::name::shimizu,merge::wikidata::Q1042508,1,1112.342,I,line_I,inferred_no_ref
+merge::name::shimmori-furuichi,merge::wikidata::Q1042492,1,1895.848,I,line_I,inferred_no_ref
+merge::name::shimmori-furuichi,merge::wikidata::Q1042508,1,1797.552,I,line_I,inferred_no_ref
+merge::name::shin-fukae,merge::name::shoji,1,772.552,5,Senchimae Line,way_order
+merge::name::shin-osaka,merge::wikidata::Q1136561,1,917.715,M,line_M,ref_sequence
+merge::name::shin-osaka,merge::wikidata::Q1136738,1,695.93,M,line_M,ref_sequence
+merge::name::shinsaibashi,merge::wikidata::Q1134631,1,929.962,M,line_M,ref_sequence
+merge::name::shinsaibashi,merge::wikidata::Q20080133,1,929.085,1,Osaka Municipal Subway Midōsuji Line,way_order
+merge::name::showacho,merge::name::tennoji,1,1445.702,M,line_M,ref_sequence
+merge::name::showacho,merge::wikidata::Q29457,1,351.228,M,line_M,inferred_no_ref
+merge::name::tanimachi 9-chome,merge::name::tsuruhashi,1,1105.171,S,line_S,ref_sequence
+merge::name::tanimachi 9-chome,merge::wikidata::Q1041977,1,120.684,5,Senchimae Line,way_order
+merge::name::tennoji,merge::wikidata::Q1038365,1,1067.663,M,line_M,ref_sequence
+merge::name::tennoji,merge::wikidata::Q29457,1,1128.358,M,line_M,inferred_no_ref
+merge::name::yumeshima,merge::wikidata::Q1136734,1,2292.709,C,line_C,ref_sequence
+merge::name::ōsakakō,merge::wikidata::Q1136734,1,2390.425,C,line_C,ref_sequence
+merge::name::フェリーターミナル,merge::name::南港東,1,690.556,,Osaka Metro New Tram,way_order
+merge::name::フェリーターミナル,merge::wikidata::Q180504,1,1403.04,,Osaka Metro New Tram,way_order
+merge::name::ポートタウン東,merge::name::ポートタウン西,1,579.31,,Osaka Metro New Tram,way_order
+merge::name::ポートタウン東,merge::wikidata::Q180504,1,9.071,P,line_P,inferred_no_ref
+merge::name::ポートタウン西,merge::wikidata::Q180504,1,579.674,P,line_P,inferred_no_ref
+merge::name::住之江公園,merge::wikidata::Q126046,1,78.498,P,line_P,inferred_no_ref
+merge::name::南港口,merge::name::南港東,1,668.821,,Osaka Metro New Tram,way_order
+merge::name::南港口,merge::name::平林,1,1213.179,,Osaka Metro New Tram,way_order
+merge::name::南港口,merge::wikidata::Q126046,1,2509.935,P,line_P,inferred_no_ref
+merge::name::南港口,merge::wikidata::Q180504,1,2445.25,P,line_P,inferred_no_ref
+merge::name::南港東,merge::wikidata::Q180504,1,2090.276,P,line_P,inferred_no_ref
+merge::name::平林,merge::wikidata::Q126046,1,1303.262,P,line_P,inferred_no_ref
+merge::wikidata::Q1038083,merge::wikidata::Q1039923,1,2539.731,K,line_K,inferred_no_ref
+merge::wikidata::Q1038083,merge::wikidata::Q1040630,1,929.733,K,line_K,inferred_no_ref
+merge::wikidata::Q1038083,merge::wikidata::Q1042837,1,1789.756,K,line_K,inferred_no_ref
+merge::wikidata::Q1038083,merge::wikidata::Q1074425,1,797.702,K,line_K,ref_sequence
+merge::wikidata::Q1038083,merge::wikidata::Q1074440,1,657.19,N,line_N,ref_sequence
+merge::wikidata::Q1038083,merge::wikidata::Q126080,1,535.687,7,Osaka Metro長堀鶴見緑地線,way_order
+merge::wikidata::Q1038083,merge::wikidata::Q843811,1,3294.202,K,line_K,inferred_no_ref
+merge::wikidata::Q1038365,merge::wikidata::Q2066656,1,778.57,K,line_K,inferred_no_ref
+merge::wikidata::Q1038365,merge::wikidata::Q2084603,1,1381.346,K,line_K,inferred_no_ref
+merge::wikidata::Q1039923,merge::wikidata::Q1042837,1,823.808,6,Sakaisuji Line,way_order
+merge::wikidata::Q1039923,merge::wikidata::Q1043084,1,1041.764,T,line_T,ref_sequence
+merge::wikidata::Q1039923,merge::wikidata::Q1074425,1,1752.428,K,line_K,inferred_no_ref
+merge::wikidata::Q1039923,merge::wikidata::Q83600,1,1083.299,T,line_T,ref_sequence
+merge::wikidata::Q1039923,merge::wikidata::Q843811,1,766.144,6,Sakaisuji Line,way_order
+merge::wikidata::Q1040630,merge::wikidata::Q2066656,1,1237.05,6,Sakaisuji Line,way_order
+merge::wikidata::Q1041967,merge::wikidata::Q1041977,1,956.645,T,line_T,ref_sequence
+merge::wikidata::Q1041967,merge::wikidata::Q1131039,1,1181.887,7,Osaka Metro長堀鶴見緑地線,way_order
+merge::wikidata::Q1041967,merge::wikidata::Q1131709,1,705.123,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q1041967,merge::wikidata::Q126080,1,492.059,N,line_N,ref_sequence
+merge::wikidata::Q1041977,merge::wikidata::Q83603,1,930.818,T,line_T,ref_sequence
+merge::wikidata::Q1042492,merge::wikidata::Q123033953,1,1582.477,N,line_N,ref_sequence
+merge::wikidata::Q1042492,merge::wikidata::Q135348,1,1151.157,N,line_N,ref_sequence
+merge::wikidata::Q1042508,merge::wikidata::Q180497,1,2534.206,I,line_I,inferred_no_ref
+merge::wikidata::Q1042508,merge::wikidata::Q83605,1,966.567,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q1042508,merge::wikidata::Q83608,1,1142.917,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q1042837,merge::wikidata::Q1074425,1,992.541,6,Sakaisuji Line,way_order
+merge::wikidata::Q1043084,merge::wikidata::Q1131709,1,869.215,T,line_T,ref_sequence
+merge::wikidata::Q1074425,merge::wikidata::Q1131709,1,978.715,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q1074425,merge::wikidata::Q1134631,1,727.787,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q1074425,merge::wikidata::Q1143934,1,3140.585,K,line_K,inferred_no_ref
+merge::wikidata::Q1074425,merge::wikidata::Q843811,1,2500.566,K,line_K,inferred_no_ref
+merge::wikidata::Q1074440,merge::wikidata::Q112719,1,432.631,N,line_N,ref_sequence
+merge::wikidata::Q112719,merge::wikidata::Q304193,1,692.168,N,line_N,ref_sequence
+merge::wikidata::Q1131017,merge::wikidata::Q1132633,1,1296.643,C,line_C,ref_sequence
+merge::wikidata::Q1131039,merge::wikidata::Q1131146,1,828.699,N,line_N,ref_sequence
+merge::wikidata::Q1131146,merge::wikidata::Q1131699,1,1143.59,C,line_C,ref_sequence
+merge::wikidata::Q1131146,merge::wikidata::Q1131709,1,1400.62,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q1131146,merge::wikidata::Q135205,1,1212.886,N,line_N,ref_sequence
+merge::wikidata::Q1131158,merge::wikidata::Q666822,1,665.065,N,line_N,ref_sequence
+merge::wikidata::Q1131699,merge::wikidata::Q126032,1,1142.828,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q1131699,merge::wikidata::Q949884,1,1225.782,I,line_I,ref_sequence
+merge::wikidata::Q1131721,merge::wikidata::Q1134631,1,1005.328,1,Osaka Municipal Subway Midōsuji Line,way_order
+merge::wikidata::Q1131721,merge::wikidata::Q20023053,1,1345.133,M,line_M,ref_sequence
+merge::wikidata::Q1131721,merge::wikidata::Q83600,1,1001.286,M,line_M,inferred_no_ref
+merge::wikidata::Q1132328,merge::wikidata::Q135196,1,784.863,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q1132328,merge::wikidata::Q83603,1,1045.7,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q1132633,merge::wikidata::Q1134468,1,1491.723,C,line_C,ref_sequence
+merge::wikidata::Q1134468,merge::wikidata::Q1134631,1,988.286,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q1134631,merge::wikidata::Q126343,1,994.647,3,Yotsubashi Line,way_order
+merge::wikidata::Q1134631,merge::wikidata::Q291023,1,989.077,Y,line_Y,ref_sequence
+merge::wikidata::Q1136734,merge::wikidata::Q180469,1,434.296,P,line_P,ref_sequence
+merge::wikidata::Q1136738,merge::wikidata::Q2520333,1,1741.793,M,line_M,ref_sequence
+merge::wikidata::Q1143934,merge::wikidata::Q83601,1,618.551,T,line_T,ref_sequence
+merge::wikidata::Q1143934,merge::wikidata::Q83604,1,1336.707,T,line_T,ref_sequence
+merge::wikidata::Q123033953,merge::wikidata::Q135205,1,580.483,7,Osaka Metro長堀鶴見緑地線,way_order
+merge::wikidata::Q125822,merge::wikidata::Q126082,1,1223.947,3,Yotsubashi Line,way_order
+merge::wikidata::Q125822,merge::wikidata::Q126335,1,1043.006,3,Yotsubashi Line,way_order
+merge::wikidata::Q126023,merge::wikidata::Q126343,1,890.226,Y,line_Y,ref_sequence
+merge::wikidata::Q126027,merge::wikidata::Q126032,1,1325.778,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q126027,merge::wikidata::Q126064,1,1750.339,4,Osaka Metro Chūō Line,way_order
+merge::wikidata::Q126046,merge::wikidata::Q126335,1,1508.403,Y,line_Y,ref_sequence
+merge::wikidata::Q126064,merge::wikidata::Q4784030,1,1265.514,C,line_C,ref_sequence
+merge::wikidata::Q126082,merge::wikidata::Q126102,1,1125.664,Y,line_Y,ref_sequence
+merge::wikidata::Q135181,merge::wikidata::Q135186,1,1048.681,7,Osaka Metro長堀鶴見緑地線,way_order
+merge::wikidata::Q135181,merge::wikidata::Q135207,1,1324.605,N,line_N,ref_sequence
+merge::wikidata::Q135184,merge::wikidata::Q135198,1,1470.832,T,line_T,ref_sequence
+merge::wikidata::Q135184,merge::wikidata::Q151539,1,1367.09,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q135186,merge::wikidata::Q135348,1,1249.613,N,line_N,ref_sequence
+merge::wikidata::Q135196,merge::wikidata::Q29457,1,892.483,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q135198,merge::wikidata::Q135203,1,1049.073,T,line_T,ref_sequence
+merge::wikidata::Q135203,merge::wikidata::Q29457,1,1041.228,T,line_T,ref_sequence
+merge::wikidata::Q151413,merge::wikidata::Q151508,1,1029.758,T,line_T,ref_sequence
+merge::wikidata::Q151413,merge::wikidata::Q151539,1,1269.442,T,line_T,ref_sequence
+merge::wikidata::Q151508,merge::wikidata::Q151767,1,1019.622,T,line_T,ref_sequence
+merge::wikidata::Q20023053,merge::wikidata::Q2520333,1,850.882,M,line_M,ref_sequence
+merge::wikidata::Q20023053,merge::wikidata::Q83600,1,373.951,M,line_M,inferred_no_ref
+merge::wikidata::Q20080133,merge::wikidata::Q291023,1,889.063,3,Yotsubashi Line,way_order
+merge::wikidata::Q2056658,merge::wikidata::Q59341,1,1877.728,M,line_M,ref_sequence
+merge::wikidata::Q304193,merge::wikidata::Q666822,1,826.944,7,Osaka Metro長堀鶴見緑地線,way_order
+merge::wikidata::Q4784030,merge::wikidata::Q8055962,1,1666.115,C,line_C,ref_sequence
+merge::wikidata::Q5517679,merge::wikidata::Q8055973,1,2652.348,C,line_C,ref_sequence
+merge::wikidata::Q59341,merge::wikidata::Q59455,1,1974.995,M,line_M,inferred_no_ref
+merge::wikidata::Q5996117,merge::wikidata::Q7497096,1,5428.129,C,line_C,ref_sequence
+merge::wikidata::Q5996117,merge::wikidata::Q7498268,1,3523.163,C,line_C,ref_sequence
+merge::wikidata::Q681742,merge::wikidata::Q83608,1,1826.665,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q7497096,merge::wikidata::Q8055962,1,1634.454,C,line_C,ref_sequence
+merge::wikidata::Q7498268,merge::wikidata::Q8055973,1,725.337,C,line_C,ref_sequence
+merge::wikidata::Q83600,merge::wikidata::Q83601,1,908.846,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q83604,merge::wikidata::Q83607,1,1163.628,T,line_T,ref_sequence
+merge::wikidata::Q83605,merge::wikidata::Q83606,1,1036.86,2,Osaka Metro Tanimachi Line,way_order
+merge::wikidata::Q83606,merge::wikidata::Q83607,1,935.286,T,line_T,ref_sequence

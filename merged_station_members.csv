@@ -1,0 +1,288 @@
+merged_station_id,station_key,name,name_local,station_uid,osm_id,ref,wikidata,operator,network,railway,public_transport,lat,lon
+merge::name::abiko,name::abiko,Abiko,あびこ,node::534122750,node/534122750,M27,,Osaka Metro,御堂筋線,stop,stop_position,34.5990799,135.5127578
+merge::name::abiko,name::abiko,Abiko,あびこ,node::7811929079,node/7811929079,M27,,Osaka Metro,御堂筋線,stop,stop_position,34.5990834,135.5128122
+merge::name::asashiobashi,name::asashiobashi,Asashiobashi,朝潮橋,node::1455848417,node/1455848417,C12,,,,stop,stop_position,34.6608536,135.4488366
+merge::name::asashiobashi,name::asashiobashi,Asashiobashi,朝潮橋,node::537520677,node/537520677,C12,,,,stop,stop_position,34.66087,135.448799
+merge::name::awaza,name::awaza,Awaza,阿波座,node::12731300594,node/12731300594,S13,,,,stop,stop_position,34.6816405,135.4862832
+merge::name::awaza,name::awaza,Awaza,阿波座,node::538715685,node/538715685,S13,,,,stop,stop_position,34.6816242,135.4862184
+merge::name::daido-toyosato,name::daido-toyosato,Daido-Toyosato,だいどう豊里,node::12508282371,node/12508282371,,,Osaka Metro,,stop,stop_position,34.7439168,135.5445246
+merge::name::daido-toyosato,name::daido-toyosato,Daido-Toyosato,だいどう豊里,node::538724639,node/538724639,,,Osaka Metro,,stop,stop_position,34.7439496,135.5445589
+merge::name::daikokucho,name::daikokucho,Daikokucho,大国町,node::537510090,node/537510090,Y16,,Osaka Metro,,stop,stop_position,34.6562417,135.4978977
+merge::name::daikokucho,name::daikokucho,Daikokucho,大国町,node::7811929023,node/7811929023,M21,,Osaka Metro,,stop,stop_position,34.6562418,135.4979568
+merge::name::daikokucho,name::daikokucho,Daikokucho,大国町,node::7811945103,node/7811945103,M21,,Osaka Metro,,stop,stop_position,34.6562413,135.4977793
+merge::name::daikokucho,name::daikokucho,Daikokucho,大国町,node::8005455801,node/8005455801,Y16,,Osaka Metro,,stop,stop_position,34.6562415,135.4978373
+merge::name::esaka,name::esaka,Esaka,江坂,node::7397873166,node/7397873166,M11,,,,stop,stop_position,34.7588638,135.4971624
+merge::name::esaka,name::esaka,Esaka,江坂,node::7397873167,node/7397873167,M11,,,,stop,stop_position,34.7588648,135.4970353
+merge::name::imazato,name::imazato,Imazato,今里,node::12731312864,node/12731312864,S20,,Osaka Metro,,stop,stop_position,34.6687376,135.544007
+merge::name::imazato,name::imazato,Imazato,今里,node::538715763,node/538715763,S20,,Osaka Metro,,stop,stop_position,34.6686947,135.5439907
+merge::name::itakano,name::itakano,Itakano,井高野,node::12508282358,node/12508282358,,,Osaka Metro,,stop,stop_position,34.7600039,135.5472368
+merge::name::itakano,name::itakano,Itakano,井高野,node::538724663,node/538724663,,,Osaka Metro,,stop,stop_position,34.7600012,135.5472837
+merge::name::kita-hanada,name::kita-hanada,Kita-Hanada,北花田,node::534130395,node/534130395,M28,,Osaka Metro,,stop,stop_position,34.5822808,135.5163859
+merge::name::kita-hanada,name::kita-hanada,Kita-Hanada,北花田,node::7811944999,node/7811944999,M28,,Osaka Metro,,stop,stop_position,34.5822821,135.5164364
+merge::name::kita-tatsumi,name::kita-tatsumi,Kita-Tatsumi,北巽,node::12731312897,node/12731312897,S23,,,,stop,stop_position,34.6535005,135.5550657
+merge::name::kita-tatsumi,name::kita-tatsumi,Kita-Tatsumi,北巽,node::538715764,node/538715764,S23,,,,stop,stop_position,34.653507,135.5550118
+merge::name::minoh-kayano,name::minoh-kayano,Minoh-kayano,箕面萱野,node::11754833255,node/11754833255,,,,,stop,stop_position,34.8313732,135.4889956
+merge::name::minoh-kayano,name::minoh-kayano,Minoh-kayano,箕面萱野,node::11754833256,node/11754833256,,,,,stop,stop_position,34.8313768,135.4891286
+merge::name::minoh-semba handai-mae,name::minoh-semba handai-mae,Minoh-semba handai-mae,箕面船場阪大前,node::10819025488,node/10819025488,,,,,stop,stop_position,34.821804,135.4901777
+merge::name::minoh-semba handai-mae,name::minoh-semba handai-mae,Minoh-semba handai-mae,箕面船場阪大前,node::5599894640,node/5599894640,,,,,stop,stop_position,34.8218342,135.4902827
+merge::name::nagai,name::nagai,Nagai,長居,node::534131683,node/534131683,M26,,Osaka Metro,,stop,stop_position,34.6090185,135.5136618
+merge::name::nagai,name::nagai,Nagai,長居,node::7811929071,node/7811929071,M26,,Osaka Metro,,stop,stop_position,34.6090138,135.5137176
+merge::name::nakafuto,name::nakafuto,Nakafuto,中ふ頭,node::8729045244,node/8729045244,P11,,Osaka Metro,Osaka Metro,stop,stop_position,34.6340615,135.4174807
+merge::name::nakafuto,name::nakafuto,Nakafuto,中ふ頭,node::8729045245,node/8729045245,P11,,Osaka Metro,Osaka Metro,stop,stop_position,34.6340165,135.4173988
+merge::name::nakamozu,name::nakamozu,Nakamozu,なかもず,node::534121583,node/534121583,M30,,Osaka Metro,,stop,stop_position,34.5563183,135.5062171
+merge::name::nakamozu,name::nakamozu,Nakamozu,なかもず,node::7811945026,node/7811945026,M30,,Osaka Metro,,stop,stop_position,34.5562904,135.5062575
+merge::name::namba,name::namba,Namba,なんば,node::12731312827,node/12731312827,S16,,Osaka Metro,,stop,stop_position,34.6673048,135.499725
+merge::name::namba,name::namba,Namba,なんば,node::538714967,node/538714967,S16,,Osaka Metro,大阪市営地下鉄千日前線,stop,stop_position,34.6671933,135.4997165
+merge::name::nippombashi,name::nippombashi,Nippombashi,日本橋,node::12731312831,node/12731312831,S17,,,,stop,stop_position,34.6671823,135.5064158
+merge::name::nippombashi,name::nippombashi,Nippombashi,日本橋,node::538715048,node/538715048,S17,,,,stop,stop_position,34.6670786,135.5064058
+merge::name::nishi-nagahori,name::nishi-nagahori,Nishi-Nagahori,西長堀,node::12731312803,node/12731312803,S14,,,,stop,stop_position,34.6738961,135.4870355
+merge::name::nishi-nagahori,name::nishi-nagahori,Nishi-Nagahori,西長堀,node::538715691,node/538715691,S14,,,,stop,stop_position,34.6738921,135.4869799
+merge::name::nishi-tanabe,name::nishi-tanabe,Nishi-Tanabe,西田辺,node::534131313,node/534131313,M25,,Osaka Metro,,stop,stop_position,34.6215571,135.5151276
+merge::name::nishi-tanabe,name::nishi-tanabe,Nishi-Tanabe,西田辺,node::7811929062,node/7811929062,M25,,Osaka Metro,,stop,stop_position,34.6215517,135.5151872
+merge::name::nodahanshin,name::nodahanshin,Nodahanshin,野田阪神,node::12731300570,node/12731300570,S11,,,,stop,stop_position,34.6943695,135.4748985
+merge::name::nodahanshin,name::nodahanshin,Nodahanshin,野田阪神,node::538715683,node/538715683,S11,,,,stop,stop_position,34.694371,135.4748438
+merge::name::sakuragawa,name::sakuragawa,Sakuragawa,桜川,node::12731312819,node/12731312819,S15,,,,stop,stop_position,34.6683295,135.4902676
+merge::name::sakuragawa,name::sakuragawa,Sakuragawa,桜川,node::538714962,node/538714962,S15,,,,stop,stop_position,34.6682826,135.4902618
+merge::name::sekime-seiiku,name::sekime-seiiku,Sekime-Seiiku,関目成育,node::12508282308,node/12508282308,,,Osaka Metro,,stop,stop_position,34.7130898,135.5464176
+merge::name::sekime-seiiku,name::sekime-seiiku,Sekime-Seiiku,関目成育,node::538724186,node/538724186,,,Osaka Metro,,stop,stop_position,34.7130989,135.546479
+merge::name::shigino,name::shigino,Shigino,鴫野,node::12508256192,node/12508256192,,,Osaka Metro,,stop,stop_position,34.6930286,135.546139
+merge::name::shigino,name::shigino,Shigino,鴫野,node::538724140,node/538724140,,,Osaka Metro,,stop,stop_position,34.6930234,135.5461967
+merge::name::shimizu,name::shimizu,Shimizu,清水,node::12508282332,node/12508282332,,,Osaka Metro,,stop,stop_position,34.7222702,135.5607758
+merge::name::shimizu,name::shimizu,Shimizu,清水,node::538724214,node/538724214,,,Osaka Metro,,stop,stop_position,34.7222675,135.5608359
+merge::name::shimmori-furuichi,name::shimmori-furuichi,Shimmori-Furuichi,新森古市,node::12508256179,node/12508256179,,,Osaka Metro,,stop,stop_position,34.7152855,135.5583018
+merge::name::shimmori-furuichi,name::shimmori-furuichi,Shimmori-Furuichi,新森古市,node::538724212,node/538724212,,,Osaka Metro,,stop,stop_position,34.7152361,135.5583012
+merge::name::shin-fukae,name::shin-fukae,Shin-Fukae,新深江,node::12731312877,node/12731312877,S21,,,,stop,stop_position,34.6682059,135.5542946
+merge::name::shin-fukae,name::shin-fukae,Shin-Fukae,新深江,node::538715786,node/538715786,S21,,,,stop,stop_position,34.6681632,135.5543001
+merge::name::shin-kanaoka,name::shin-kanaoka,Shin-Kanaoka,新金岡,node::534130655,node/534130655,M29,,Osaka Metro,,stop,stop_position,34.5684912,135.5153348
+merge::name::shin-kanaoka,name::shin-kanaoka,Shin-Kanaoka,新金岡,node::7811945009,node/7811945009,M29,,Osaka Metro,,stop,stop_position,34.5684803,135.5153965
+merge::name::shin-osaka,name::shin-osaka,Shin-Osaka,新大阪,node::4800705875,node/4800705875,M13,,大阪市交通局,大阪市営地下鉄,stop,stop_position,34.7328996,135.4986181
+merge::name::shin-osaka,name::shin-osaka,Shin-Osaka,新大阪,node::4800705876,node/4800705876,M13,,大阪市交通局,大阪市営地下鉄,stop,stop_position,34.7328914,135.498469
+merge::name::shinsaibashi,name::shinsaibashi,Shinsaibashi,心斎橋,node::534133907,node/534133907,M19,,Osaka Metro,,stop,stop_position,34.6745168,135.500328
+merge::name::shinsaibashi,name::shinsaibashi,Shinsaibashi,心斎橋,node::7811945072,node/7811945072,M19,,Osaka Metro,,stop,stop_position,34.6745178,135.5003852
+merge::name::shoji,name::shoji,Shoji,小路,node::12731312892,node/12731312892,S22,,,,stop,stop_position,34.6614304,135.5563086
+merge::name::shoji,name::shoji,Shoji,小路,node::538715769,node/538715769,S22,,,,stop,stop_position,34.661432,135.5562543
+merge::name::showacho,name::showacho,Showacho,昭和町,node::534132242,node/534132242,M24,,Osaka Metro,,stop,stop_position,34.6331295,135.5168954
+merge::name::showacho,name::showacho,Showacho,昭和町,node::7811929049,node/7811929049,M24,,Osaka Metro,,stop,stop_position,34.6331228,135.5169549
+merge::name::tamagawa,name::tamagawa,Tamagawa,玉川,node::12731300577,node/12731300577,S12,,,,stop,stop_position,34.6895606,135.4762235
+merge::name::tamagawa,name::tamagawa,Tamagawa,玉川,node::538715541,node/538715541,S12,,,,stop,stop_position,34.6895401,135.4761741
+merge::name::tanimachi 9-chome,name::tanimachi 9-chome,Tanimachi 9-chome,谷町九丁目,node::12731312840,node/12731312840,S18,,,,stop,stop_position,34.6666275,135.5170079
+merge::name::tanimachi 9-chome,name::tanimachi 9-chome,Tanimachi 9-chome,谷町九丁目,node::538714986,node/538714986,S18,,,,stop,stop_position,34.6664922,135.5169829
+merge::name::tennoji,name::tennoji,Tennoji,天王寺,node::534132586,node/534132586,M23,,Osaka Metro,Osaka Metro御堂筋線,stop,stop_position,34.6460113,135.5152402
+merge::name::tennoji,name::tennoji,Tennoji,天王寺,node::7811929027,node/7811929027,M23,,Osaka Metro,Osaka Metro御堂筋線,stop,stop_position,34.6460991,135.515278
+merge::name::tsuruhashi,name::tsuruhashi,Tsuruhashi,鶴橋,node::12731312851,node/12731312851,S19,,,,stop,stop_position,34.6660004,135.5290604
+merge::name::tsuruhashi,name::tsuruhashi,Tsuruhashi,鶴橋,node::538715743,node/538715743,S19,,,,stop,stop_position,34.6659535,135.5290573
+merge::name::yumeshima,name::yumeshima,Yumeshima,夢洲,node::12517912680,node/12517912680,C09,,Osaka Metro,Osaka Metro,stop,stop_position,34.6529239,135.3905899
+merge::name::yumeshima,name::yumeshima,Yumeshima,夢洲,node::12517912681,node/12517912681,C09,,Osaka Metro,Osaka Metro,stop,stop_position,34.6529931,135.3904761
+merge::name::ōsakakō,name::ōsakakō,Ōsakakō,大阪港,node::5470490421,node/5470490421,C11,,,,stop,stop_position,34.6539654,135.4344007
+merge::name::ōsakakō,name::ōsakakō,Ōsakakō,大阪港,node::5647131994,node/5647131994,C11,,,,stop,stop_position,34.6538844,135.4344367
+merge::name::フェリーターミナル,name::フェリーターミナル,フェリーターミナル,フェリーターミナル,node::8729045329,node/8729045329,,,,,stop,stop_position,34.6192345,135.4349207
+merge::name::フェリーターミナル,name::フェリーターミナル,フェリーターミナル,フェリーターミナル,node::8729045331,node/8729045331,,,,,stop,stop_position,34.6192668,135.4349956
+merge::name::ポートタウン西,name::ポートタウン西,ポートタウン西,ポートタウン西,node::8729045270,node/8729045270,,,,,stop,stop_position,34.6309412,135.4228121
+merge::name::ポートタウン西,name::ポートタウン西,ポートタウン西,ポートタウン西,node::8729045271,node/8729045271,,,,,stop,stop_position,34.6308666,135.422814
+merge::name::南港口,name::南港口,南港口,南港口,node::8729045379,node/8729045379,,,,,stop,stop_position,34.6138536,135.4459391
+merge::name::南港口,name::南港口,南港口,南港口,node::8729045380,node/8729045380,,,,,stop,stop_position,34.6137872,135.4459402
+merge::name::南港東,name::南港東,南港東,南港東,node::8729045356,node/8729045356,,,,,stop,stop_position,34.6138619,135.4386311
+merge::name::南港東,name::南港東,南港東,南港東,node::8729045364,node/8729045364,,,,,stop,stop_position,34.6137894,135.4386313
+merge::name::平林,name::平林,平林,平林,node::8729045402,node/8729045402,,,,,stop,stop_position,34.6107003,135.4586323
+merge::name::平林,name::平林,平林,平林,node::8729045410,node/8729045410,,,,,stop,stop_position,34.6106276,135.4586264
+merge::wikidata::Q1038083,wikidata::Q1038083,Nagahoribashi,長堀橋,node::538718331,node/538718331,K16,Q1038083,,,stop,stop_position,34.6748575,135.506291
+merge::wikidata::Q1038083,wikidata::Q1038083,Nagahoribashi,長堀橋,node::538721524,node/538721524,N16,Q1038083,Osaka Metro,,stop,stop_position,34.6752768,135.506437
+merge::wikidata::Q1038083,wikidata::Q1038083,Nagahoribashi,長堀橋,node::7948009781,node/7948009781,N16,Q1038083,Osaka Metro,,stop,stop_position,34.6753201,135.5064405
+merge::wikidata::Q1038083,wikidata::Q1038083,Nagahoribashi,長堀橋,node::8260808105,node/8260808105,K16,Q1038083,,,stop,stop_position,34.6748567,135.5063511
+merge::wikidata::Q1038365,wikidata::Q1038365,Dobutsuen-mae,動物園前,node::534132524,node/534132524,M22,Q1038365,Osaka Metro,,stop,stop_position,34.6487647,135.5045366
+merge::wikidata::Q1038365,wikidata::Q1038365,Dobutsuen-mae,動物園前,node::538718289,node/538718289,M22,Q1038365,,,stop,stop_position,34.6486679,135.5035212
+merge::wikidata::Q1038365,wikidata::Q1038365,Dobutsuen-mae,動物園前,node::7811945096,node/7811945096,M22,Q1038365,Osaka Metro,,stop,stop_position,34.6488146,135.5045554
+merge::wikidata::Q1038365,wikidata::Q1038365,Dobutsuen-mae,動物園前,node::8260808084,node/8260808084,M22,Q1038365,,,stop,stop_position,34.6486554,135.5035793
+merge::wikidata::Q1039923,wikidata::Q1039923,Minami-Morimachi,南森町,node::1964006760,node/1964006760,,Q1039923,,,stop,stop_position,34.6976429,135.5111732
+merge::wikidata::Q1039923,wikidata::Q1039923,Minami-morimachi;Minami-Morimachi,南森町,node::536381594,node/536381594,T21,Q1039923,Osaka Metro,,stop,stop_position,34.6975763,135.5109758
+merge::wikidata::Q1039923,wikidata::Q1039923,Minami-Morimachi,南森町,node::8256784380,node/8256784380,,Q1039923,,,stop,stop_position,34.697555,135.511164
+merge::wikidata::Q1039923,wikidata::Q1039923,Minami-morimachi;Minami-Morimachi,南森町,node::8260835833,node/8260835833,T21,Q1039923,Osaka Metro,,stop,stop_position,34.6975768,135.5110359
+merge::wikidata::Q1040630,wikidata::Q1040630,Nippombashi,日本橋,node::538718325,node/538718325,,Q1040630,,,stop,stop_position,34.6667194,135.5061213
+merge::wikidata::Q1040630,wikidata::Q1040630,Nippombashi,日本橋,node::8260808100,node/8260808100,,Q1040630,,,stop,stop_position,34.6667178,135.5061814
+merge::wikidata::Q1041967,wikidata::Q1041967,Tanimachi 6-chome,谷町六丁目,node::536381550,node/536381550,T24,Q1041967,Osaka Metro,,stop,stop_position,34.6751043,135.5170953
+merge::wikidata::Q1041967,wikidata::Q1041967,Tanimachi 6-chome,谷町六丁目,node::538721576,node/538721576,N18,Q1041967,Osaka Metro,,stop,stop_position,34.6759996,135.518135
+merge::wikidata::Q1041967,wikidata::Q1041967,Tanimachi 6-chome,谷町六丁目,node::7948033299,node/7948033299,N18,Q1041967,Osaka Metro,,stop,stop_position,34.676049,135.5181338
+merge::wikidata::Q1041967,wikidata::Q1041967,Tanimachi 6-chome,谷町六丁目,node::8256784551,node/8256784551,T24,Q1041967,Osaka Metro,,stop,stop_position,34.6751068,135.5170408
+merge::wikidata::Q1041977,wikidata::Q1041977,Tanimachi 9-chome,谷町九丁目,node::536381546,node/536381546,T25,Q1041977,Osaka Metro,,stop,stop_position,34.6670802,135.515867
+merge::wikidata::Q1041977,wikidata::Q1041977,Tanimachi 9-chome,谷町九丁目,node::8256784543,node/8256784543,T25,Q1041977,Osaka Metro,,stop,stop_position,34.6670886,135.5158133
+merge::wikidata::Q1042492,wikidata::Q1042492,Gamo 4-chome,蒲生四丁目,node::12508256200,node/12508256200,I18,Q1042492,Osaka Metro,,stop,stop_position,34.7009642,135.5462694
+merge::wikidata::Q1042492,wikidata::Q1042492,Gamo 4-chome,蒲生四丁目,node::538721772,node/538721772,N23,Q1042492,Osaka Metro,,stop,stop_position,34.7005412,135.548485
+merge::wikidata::Q1042492,wikidata::Q1042492,Gamo 4-chome,蒲生四丁目,node::538724159,node/538724159,I18,Q1042492,Osaka Metro,,stop,stop_position,34.7009652,135.5463214
+merge::wikidata::Q1042492,wikidata::Q1042492,Gamo 4-chome,蒲生四丁目,node::7948033368,node/7948033368,N23,Q1042492,Osaka Metro,,stop,stop_position,34.7005788,135.5484762
+merge::wikidata::Q1042508,wikidata::Q1042508,Taishibashi-Imaichi,太子橋今市,node::12508282347,node/12508282347,I14,Q1042508,Osaka Metro,,stop,stop_position,34.7312741,135.5562082
+merge::wikidata::Q1042508,wikidata::Q1042508,Taishibashi-Imaichi,太子橋今市,node::538724478,node/538724478,I14,Q1042508,Osaka Metro,,stop,stop_position,34.7313068,135.5562505
+merge::wikidata::Q1042508,wikidata::Q1042508,Taishibashi-Imaichi,太子橋今市,node::549722947,node/549722947,T13,Q1042508,Osaka Metro,,stop,stop_position,34.7312073,135.5547161
+merge::wikidata::Q1042508,wikidata::Q1042508,Taishibashi-Imaichi,太子橋今市,node::8256784363,node/8256784363,T13,Q1042508,Osaka Metro,,stop,stop_position,34.7312416,135.5546809
+merge::wikidata::Q1042837,wikidata::Q1042837,Kitahama,北浜,node::538718386,node/538718386,,Q1042837,,,stop,stop_position,34.6911743,135.5065498
+merge::wikidata::Q1042837,wikidata::Q1042837,Kitahama,北浜,node::8260808114,node/8260808114,,Q1042837,,,stop,stop_position,34.6911709,135.5066098
+merge::wikidata::Q1043084,wikidata::Q1043084,Temmabashi,天満橋,node::536381568,node/536381568,T22,Q1043084,Osaka Metro,,stop,stop_position,34.6897207,135.5173037
+merge::wikidata::Q1043084,wikidata::Q1043084,Temmabashi,天満橋,node::8256784561,node/8256784561,T22,Q1043084,Osaka Metro,,stop,stop_position,34.68972,135.517245
+merge::wikidata::Q1074425,wikidata::Q1074425,Sakaisuji-Hommachi,堺筋本町,node::537521118,node/537521118,C17,Q1074425,Osaka Metro,,stop,stop_position,34.6818551,135.5069325
+merge::wikidata::Q1074425,wikidata::Q1074425,Sakaisuji-Hommachi,堺筋本町,node::538718337,node/538718337,K15,Q1074425,,,stop,stop_position,34.6826204,135.5064317
+merge::wikidata::Q1074425,wikidata::Q1074425,Sakaisuji-Hommachi,堺筋本町,node::7944112736,node/7944112736,C17,Q1074425,Osaka Metro,,stop,stop_position,34.6818955,135.5069338
+merge::wikidata::Q1074425,wikidata::Q1074425,Sakaisuji-Hommachi,堺筋本町,node::8260808109,node/8260808109,K15,Q1074425,,,stop,stop_position,34.6826169,135.5064858
+merge::wikidata::Q1074440,wikidata::Q1074440,Shinsaibashi,心斎橋,node::538721475,node/538721475,N15,Q1074440,Osaka Metro,,stop,stop_position,34.6753372,135.4991998
+merge::wikidata::Q1074440,wikidata::Q1074440,Shinsaibashi,心斎橋,node::7948009777,node/7948009777,N15,Q1074440,Osaka Metro,,stop,stop_position,34.6753751,135.4992026
+merge::wikidata::Q112719,wikidata::Q112719,Nishiohashi,西大橋,node::538721479,node/538721479,N14,Q112719,Osaka Metro,,stop,stop_position,34.6754786,135.4944713
+merge::wikidata::Q112719,wikidata::Q112719,Nishiohashi,西大橋,node::7948009772,node/7948009772,N14,Q112719,Osaka Metro,,stop,stop_position,34.6755169,135.4944753
+merge::wikidata::Q1131017,wikidata::Q1131017,Bentencho,弁天町,node::537520788,node/537520788,C13,Q1131017,Osaka Metro,,stop,stop_position,34.6684336,135.4620861
+merge::wikidata::Q1131017,wikidata::Q1131017,Bentencho,弁天町,node::7756610829,node/7756610829,C13,Q1131017,Osaka Metro,,stop,stop_position,34.6684026,135.4621007
+merge::wikidata::Q1131039,wikidata::Q1131039,Tamatsukuri,玉造,node::538721634,node/538721634,N19,Q1131039,Osaka Metro,,stop,stop_position,34.6745896,135.530474
+merge::wikidata::Q1131039,wikidata::Q1131039,Tamatsukuri,玉造,node::7948033312,node/7948033312,N19,Q1131039,Osaka Metro,,stop,stop_position,34.6746356,135.5304734
+merge::wikidata::Q1131146,wikidata::Q1131146,Morinomiya,森ノ宮,node::537521123,node/537521123,C19,Q1131146,Osaka Metro,,stop,stop_position,34.6814583,135.5320332
+merge::wikidata::Q1131146,wikidata::Q1131146,Morinomiya,森ノ宮,node::538721697,node/538721697,N20,Q1131146,Osaka Metro,,stop,stop_position,34.6821935,135.5334135
+merge::wikidata::Q1131146,wikidata::Q1131146,Morinomiya,森ノ宮,node::7944112719,node/7944112719,C19,Q1131146,Osaka Metro,,stop,stop_position,34.6814987,135.5320338
+merge::wikidata::Q1131146,wikidata::Q1131146,Morinomiya,森ノ宮,node::7948033332,node/7948033332,N20,Q1131146,Osaka Metro,,stop,stop_position,34.6821897,135.5333548
+merge::wikidata::Q1131158,wikidata::Q1131158,Taisho,大正,node::538721423,node/538721423,N11,Q1131158,Osaka Metro,,stop,stop_position,34.665509,135.4786099
+merge::wikidata::Q1131158,wikidata::Q1131158,Taisho,大正,node::7948033416,node/7948033416,N11,Q1131158,Osaka Metro,,stop,stop_position,34.6655282,135.4785502
+merge::wikidata::Q1131699,wikidata::Q1131699,Midoribashi,緑橋,node::12508256182,node/12508256182,I20,Q1131699,Osaka Metro,,stop,stop_position,34.6814459,135.5445946
+merge::wikidata::Q1131699,wikidata::Q1131699,Midoribashi,緑橋,node::537521131,node/537521131,C20,Q1131699,Osaka Metro,,stop,stop_position,34.6806358,135.545739
+merge::wikidata::Q1131699,wikidata::Q1131699,Midoribashi,緑橋,node::538724124,node/538724124,I20,Q1131699,Osaka Metro,,stop,stop_position,34.6814409,135.5446355
+merge::wikidata::Q1131699,wikidata::Q1131699,Midoribashi,緑橋,node::7944112708,node/7944112708,C20,Q1131699,Osaka Metro,,stop,stop_position,34.6806757,135.5457466
+merge::wikidata::Q1131709,wikidata::Q1131709,Tanimachi 4-chome,谷町四丁目,node::536381552,node/536381552,T23,Q1131709,Osaka Metro,,stop,stop_position,34.6823572,135.5173427
+merge::wikidata::Q1131709,wikidata::Q1131709,Tanimachi 4-chome,谷町四丁目,node::537521116,node/537521116,C18,Q1131709,,,stop,stop_position,34.6814302,135.517465
+merge::wikidata::Q1131709,wikidata::Q1131709,Tanimachi 4-chome,谷町四丁目,node::7944112730,node/7944112730,C18,Q1131709,,,stop,stop_position,34.6814704,135.5174698
+merge::wikidata::Q1131709,wikidata::Q1131709,Tanimachi 4-chome,谷町四丁目,node::8256784555,node/8256784555,T23,Q1131709,Osaka Metro,,stop,stop_position,34.6823578,135.5172881
+merge::wikidata::Q1131721,wikidata::Q1131721,Yodoyabashi,淀屋橋,node::5732164218,node/5732164218,M17,Q1131721,Osaka Metro,,stop,stop_position,34.6916363,135.5009259
+merge::wikidata::Q1131721,wikidata::Q1131721,Yodoyabashi,淀屋橋,node::7811945063,node/7811945063,M17,Q1131721,Osaka Metro,,stop,stop_position,34.6916379,135.5009817
+merge::wikidata::Q1132328,wikidata::Q1132328,Tennoji,天王寺,node::536381139,node/536381139,T27,Q1132328,Osaka Metro,,stop,stop_position,34.6494263,135.5135657
+merge::wikidata::Q1132328,wikidata::Q1132328,Tennoji,天王寺,node::8256784526,node/8256784526,T27,Q1132328,Osaka Metro,,stop,stop_position,34.6494344,135.5135119
+merge::wikidata::Q1132633,wikidata::Q1132633,Kujō,九条,node::1457300465,node/1457300465,C14,Q1132633,Osaka Metro,,stop,stop_position,34.6752934,135.4735453
+merge::wikidata::Q1132633,wikidata::Q1132633,Kujō,九条,node::537520917,node/537520917,C14,Q1132633,Osaka Metro,,stop,stop_position,34.675318,135.473524
+merge::wikidata::Q1134468,wikidata::Q1134468,Awaza,阿波座,node::537520958,node/537520958,C15,Q1134468,Osaka Metro,,stop,stop_position,34.6813385,135.4880951
+merge::wikidata::Q1134468,wikidata::Q1134468,Awaza,阿波座,node::7944112747,node/7944112747,C15,Q1134468,Osaka Metro,,stop,stop_position,34.6813788,135.488091
+merge::wikidata::Q1134631,wikidata::Q1134631,Hommachi,本町,node::537520970,node/537520970,C16,Q1134631,Osaka Metro,,stop,stop_position,34.681998,135.4987211
+merge::wikidata::Q1134631,wikidata::Q1134631,Hommachi,本町,node::5730564865,node/5730564865,Y13,Q1134631,Osaka Metro,,stop,stop_position,34.6827698,135.4969235
+merge::wikidata::Q1134631,wikidata::Q1134631,Hommachi,本町,node::5730565139,node/5730565139,M18,Q1134631,Osaka Metro,,stop,stop_position,34.6835429,135.5006457
+merge::wikidata::Q1134631,wikidata::Q1134631,Hommachi,本町,node::7811945066,node/7811945066,M18,Q1134631,Osaka Metro,,stop,stop_position,34.6835415,135.5006949
+merge::wikidata::Q1134631,wikidata::Q1134631,Hommachi,本町,node::7893338347,node/7893338347,Y13,Q1134631,Osaka Metro,,stop,stop_position,34.6827731,135.4968712
+merge::wikidata::Q1134631,wikidata::Q1134631,Hommachi,本町,node::7944112740,node/7944112740,C16,Q1134631,Osaka Metro,,stop,stop_position,34.6820385,135.49872
+merge::wikidata::Q1136561,wikidata::Q1136561,Higashi-Mikuni,東三国,node::534123237,node/534123237,M12,Q1136561,,,stop,stop_position,34.7411464,135.4985642
+merge::wikidata::Q1136561,wikidata::Q1136561,Higashi-Mikuni,東三国,node::7811945110,node/7811945110,M12,Q1136561,,,stop,stop_position,34.7411509,135.4984468
+merge::wikidata::Q1136734,wikidata::Q1136734,Cosmo Square,コスモスクエア,node::346493042,node/346493042,P09,Q1136734,Osaka Metro,Osaka Metro,stop,stop_position,34.6426405,135.4121576
+merge::wikidata::Q1136734,wikidata::Q1136734,Cosmo Square,コスモスクエア,node::6621493574,node/6621493574,C10,Q1136734,Osaka Metro,Osaka Metro,stop,stop_position,34.6426716,135.4121727
+merge::wikidata::Q1136734,wikidata::Q1136734,Cosmo Square,コスモスクエア,node::6621530408,node/6621530408,P09,Q1136734,Osaka Metro,Osaka Metro,stop,stop_position,34.6425341,135.4122584
+merge::wikidata::Q1136734,wikidata::Q1136734,Cosmo Square,コスモスクエア,node::6621530410,node/6621530410,C10,Q1136734,Osaka Metro,Osaka Metro,stop,stop_position,34.6425613,135.412233
+merge::wikidata::Q1136738,wikidata::Q1136738,Nishinakajima-Minamigata,西中島南方,node::534123171,node/534123171,M14,Q1136738,Osaka Metro,,stop,stop_position,34.7266367,135.4986182
+merge::wikidata::Q1136738,wikidata::Q1136738,Nishinakajima-Minamigata,西中島南方,node::7811929015,node/7811929015,M14,Q1136738,Osaka Metro,,stop,stop_position,34.7266373,135.4985747
+merge::wikidata::Q1143934,wikidata::Q1143934,Tenjinbashisuji 6-chome,天神橋筋六丁目,node::4451435044,node/4451435044,,Q1143934,,,stop,stop_position,34.7098048,135.5106908
+merge::wikidata::Q1143934,wikidata::Q1143934,Tenjinbashisuji 6-chome,天神橋筋六丁目,node::536381799,node/536381799,T18,Q1143934,Osaka Metro,,stop,stop_position,34.710632,135.5118369
+merge::wikidata::Q1143934,wikidata::Q1143934,Tenjinbashisuji 6-chome,天神橋筋六丁目,node::8256784378,node/8256784378,T18,Q1143934,Osaka Metro,,stop,stop_position,34.7106906,135.5118787
+merge::wikidata::Q1143934,wikidata::Q1143934,Tenjinbashisuji 6-chome,天神橋筋六丁目,node::8260835845,node/8260835845,,Q1143934,,,stop,stop_position,34.7098099,135.5108581
+merge::wikidata::Q123033953,wikidata::Q123033953,Kyobashi,京橋,node::538721743,node/538721743,N22,Q123033953,Osaka Metro,,stop,stop_position,34.6975502,135.5305398
+merge::wikidata::Q123033953,wikidata::Q123033953,Kyobashi,京橋,node::7948033352,node/7948033352,N22,Q123033953,Osaka Metro,,stop,stop_position,34.6975755,135.5305022
+merge::wikidata::Q125822,wikidata::Q125822,Tamade,玉出,node::537509992,node/537509992,Y19,Q125822,Osaka Metro,,stop,stop_position,34.6237757,135.4904379
+merge::wikidata::Q125822,wikidata::Q125822,Tamade,玉出,node::8005451576,node/8005451576,Y19,Q125822,Osaka Metro,,stop,stop_position,34.6237848,135.4903816
+merge::wikidata::Q126023,wikidata::Q126023,Nishi-Umeda,西梅田,node::537510157,node/537510157,Y11,Q126023,Osaka Metro,,stop,stop_position,34.699483,135.4956763
+merge::wikidata::Q126023,wikidata::Q126023,Nishi-Umeda,西梅田,node::7893338376,node/7893338376,Y11,Q126023,Osaka Metro,,stop,stop_position,34.6994836,135.4956212
+merge::wikidata::Q126027,wikidata::Q126027,Takaida,高井田,node::537521160,node/537521160,C22,Q126027,Osaka Metro,,stop,stop_position,34.6783601,135.5719276
+merge::wikidata::Q126027,wikidata::Q126027,Takaida,高井田,node::7944112692,node/7944112692,C22,Q126027,Osaka Metro,,stop,stop_position,34.6784001,135.5719206
+merge::wikidata::Q126032,wikidata::Q126032,Fukaebashi,深江橋,node::537521143,node/537521143,C21,Q126032,Osaka Metro,,stop,stop_position,34.6790916,135.5574489
+merge::wikidata::Q126032,wikidata::Q126032,Fukaebashi,深江橋,node::7944112703,node/7944112703,C21,Q126032,Osaka Metro,,stop,stop_position,34.6791315,135.5574567
+merge::wikidata::Q126046,wikidata::Q126046,Suminoekoen,住之江公園,node::346493842,node/346493842,P18,Q126046,Osaka Metro,,stop,stop_position,34.6092699,135.4719336
+merge::wikidata::Q126046,wikidata::Q126046,Suminoekoen,住之江公園,node::537509926,node/537509926,Y21,Q126046,Osaka Metro,,stop,stop_position,34.6087382,135.473121
+merge::wikidata::Q126046,wikidata::Q126046,Suminoekoen,住之江公園,node::8005451543,node/8005451543,Y21,Q126046,Osaka Metro,,stop,stop_position,34.60874,135.4730773
+merge::wikidata::Q126064,wikidata::Q126064,Nagata,長田,node::537521167,node/537521167,C23,Q126064,Osaka Metro,,stop,stop_position,34.6787381,135.5910595
+merge::wikidata::Q126064,wikidata::Q126064,Nagata,長田,node::7944112751,node/7944112751,C23,Q126064,Osaka Metro,,stop,stop_position,34.6787791,135.5910607
+merge::wikidata::Q126080,wikidata::Q126080,Matsuyamachi,松屋町,node::538721499,node/538721499,N17,Q126080,Osaka Metro,,stop,stop_position,34.6753937,135.5122307
+merge::wikidata::Q126080,wikidata::Q126080,Matsuyamachi,松屋町,node::7948033289,node/7948033289,N17,Q126080,Osaka Metro,,stop,stop_position,34.6754413,135.5122159
+merge::wikidata::Q126082,wikidata::Q126082,Kishinosato,岸里,node::537510029,node/537510029,Y18,Q126082,Osaka Metro,,stop,stop_position,34.634409,135.493888
+merge::wikidata::Q126082,wikidata::Q126082,Kishinosato,岸里,node::8005455785,node/8005455785,Y18,Q126082,Osaka Metro,,stop,stop_position,34.6344204,135.4938351
+merge::wikidata::Q126102,wikidata::Q126102,Hanazonocho,花園町,node::537509994,node/537509994,Y17,Q126102,Osaka Metro,,stop,stop_position,34.6442802,135.4966066
+merge::wikidata::Q126102,wikidata::Q126102,Hanazonocho,花園町,node::8005455792,node/8005455792,Y17,Q126102,Osaka Metro,,stop,stop_position,34.6442969,135.4965462
+merge::wikidata::Q126112,wikidata::Q126112,Minami-Tatsumi,南巽,node::12731312903,node/12731312903,S24,Q126112,,,stop,stop_position,34.6424907,135.5531358
+merge::wikidata::Q126112,wikidata::Q126112,Minami-Tatsumi,南巽,node::538715734,node/538715734,S24,Q126112,,,stop,stop_position,34.6425052,135.5530849
+merge::wikidata::Q126335,wikidata::Q126335,Kitakagaya,北加賀屋,node::537509959,node/537509959,Y20,Q126335,Osaka Metro,,stop,stop_position,34.6212875,135.4794184
+merge::wikidata::Q126335,wikidata::Q126335,Kitakagaya,北加賀屋,node::8005451562,node/8005451562,Y20,Q126335,Osaka Metro,,stop,stop_position,34.6213305,135.4794095
+merge::wikidata::Q126343,wikidata::Q126343,Higobashi,肥後橋,node::537510155,node/537510155,Y12,Q126343,Osaka Metro,,stop,stop_position,34.6914998,135.4963627
+merge::wikidata::Q126343,wikidata::Q126343,Higobashi,肥後橋,node::7893338367,node/7893338367,Y12,Q126343,Osaka Metro,,stop,stop_position,34.691495,135.4963139
+merge::wikidata::Q135181,wikidata::Q135181,Tsurumi-ryokuchi,鶴見緑地,node::538722148,node/538722148,N26,Q135181,Osaka Metro,,stop,stop_position,34.7109324,135.5806954
+merge::wikidata::Q135181,wikidata::Q135181,Tsurumi-ryokuchi,鶴見緑地,node::7948033401,node/7948033401,N26,Q135181,Osaka Metro,,stop,stop_position,34.7109587,135.5806204
+merge::wikidata::Q135184,wikidata::Q135184,Hirano,平野,node::536380901,node/536380901,T32,Q135184,Osaka Metro,,stop,stop_position,34.6212802,135.5485984
+merge::wikidata::Q135184,wikidata::Q135184,Hirano,平野,node::8256784466,node/8256784466,T32,Q135184,Osaka Metro,,stop,stop_position,34.6212646,135.5485471
+merge::wikidata::Q135186,wikidata::Q135186,Yokozutsumi,横堤,node::538722089,node/538722089,N25,Q135186,Osaka Metro,,stop,stop_position,34.7036117,135.5734194
+merge::wikidata::Q135186,wikidata::Q135186,Yokozutsumi,横堤,node::7948033386,node/7948033386,N25,Q135186,Osaka Metro,,stop,stop_position,34.7036534,135.5734082
+merge::wikidata::Q135196,wikidata::Q135196,Abeno,阿倍野,node::536381110,node/536381110,T28,Q135196,Osaka Metro,,stop,stop_position,34.6424824,135.512018
+merge::wikidata::Q135196,wikidata::Q135196,Abeno,阿倍野,node::8256784521,node/8256784521,T28,Q135196,Osaka Metro,,stop,stop_position,34.6424929,135.5119649
+merge::wikidata::Q135198,wikidata::Q135198,Komagawa-Nakano,駒川中野,node::536380877,node/536380877,T31,Q135198,Osaka Metro,,stop,stop_position,34.6216708,135.5325144
+merge::wikidata::Q135198,wikidata::Q135198,Komagawa-Nakano,駒川中野,node::8256784487,node/8256784487,T31,Q135198,Osaka Metro,,stop,stop_position,34.6216265,135.5324965
+merge::wikidata::Q135203,wikidata::Q135203,Tanabe,田辺,node::536380863,node/536380863,T30,Q135203,Osaka Metro,,stop,stop_position,34.6288002,135.5250317
+merge::wikidata::Q135203,wikidata::Q135203,Tanabe,田辺,node::8256784498,node/8256784498,T30,Q135203,Osaka Metro,,stop,stop_position,34.6287747,135.5249873
+merge::wikidata::Q135205,wikidata::Q135205,Osaka Business Park,大阪ビジネスパーク,node::538721710,node/538721710,N21,Q135205,Osaka Metro,,stop,stop_position,34.6924236,135.5295012
+merge::wikidata::Q135205,wikidata::Q135205,Osaka Business Park,大阪ビジネスパーク,node::7948033342,node/7948033342,N21,Q135205,Osaka Metro,,stop,stop_position,34.6924039,135.5294491
+merge::wikidata::Q135207,wikidata::Q135207,Kadoma-Minami,門真南,node::538722362,node/538722362,N27,Q135207,Osaka Metro,,stop,stop_position,34.7170398,135.5931108
+merge::wikidata::Q135207,wikidata::Q135207,Kadoma-Minami,門真南,node::7948033417,node/7948033417,N27,Q135207,Osaka Metro,,stop,stop_position,34.7170733,135.5930846
+merge::wikidata::Q135348,wikidata::Q135348,Imafuku-Tsurumi,今福鶴見,node::538721773,node/538721773,N24,Q135348,Osaka Metro,,stop,stop_position,34.7019495,135.5599007
+merge::wikidata::Q135348,wikidata::Q135348,Imafuku-Tsurumi,今福鶴見,node::7948033374,node/7948033374,N24,Q135348,Osaka Metro,,stop,stop_position,34.7019967,135.5598873
+merge::wikidata::Q151413,wikidata::Q151413,Deto,出戸,node::536380916,node/536380916,T34,Q151413,Osaka Metro,,stop,stop_position,34.60905,135.5652331
+merge::wikidata::Q151413,wikidata::Q151413,Deto,出戸,node::8256784443,node/8256784443,T34,Q151413,Osaka Metro,,stop,stop_position,34.6090051,135.5652295
+merge::wikidata::Q151508,wikidata::Q151508,Nagahara,長原,node::536380957,node/536380957,T35,Q151508,Osaka Metro,,stop,stop_position,34.6029066,135.573698
+merge::wikidata::Q151508,wikidata::Q151508,Nagahara,長原,node::8256784426,node/8256784426,T35,Q151508,Osaka Metro,,stop,stop_position,34.6028996,135.573644
+merge::wikidata::Q151539,wikidata::Q151539,Kire-Uriwari,喜連瓜破,node::536380931,node/536380931,T33,Q151539,Osaka Metro,,stop,stop_position,34.6092165,135.5513631
+merge::wikidata::Q151539,wikidata::Q151539,Kire-Uriwari,喜連瓜破,node::8256784449,node/8256784449,T33,Q151539,Osaka Metro,,stop,stop_position,34.6091716,135.5513607
+merge::wikidata::Q151767,wikidata::Q151767,Yao-Minami,八尾南,node::536381030,node/536381030,T36,Q151767,Osaka Metro,,stop,stop_position,34.5973754,135.5825224
+merge::wikidata::Q151767,wikidata::Q151767,Yao-Minami,八尾南,node::8256777207,node/8256777207,T36,Q151767,Osaka Metro,,stop,stop_position,34.5972801,135.5825081
+merge::wikidata::Q180469,wikidata::Q180469,Trade Center-mae,トレードセンター前,node::346493228,node/346493228,P10,Q180469,Osaka Metro,Osaka Metro,stop,stop_position,34.6387218,135.4121811
+merge::wikidata::Q180469,wikidata::Q180469,Trade Center-mae,トレードセンター前,node::8729029273,node/8729029273,P10,Q180469,Osaka Metro,Osaka Metro,stop,stop_position,34.6386712,135.4121047
+merge::wikidata::Q180497,wikidata::Q180497,Zuiko 4-chome,瑞光四丁目,node::12508282380,node/12508282380,,Q180497,Osaka Metro,,stop,stop_position,34.7522157,135.5445284
+merge::wikidata::Q180497,wikidata::Q180497,Zuiko 4-chome,瑞光四丁目,node::538724645,node/538724645,,Q180497,Osaka Metro,,stop,stop_position,34.7522052,135.5445776
+merge::wikidata::Q20023053,wikidata::Q20023053,Umeda,梅田,node::534134923,node/534134923,M16,Q20023053,Osaka Metro,大阪市営地下鉄御堂筋線,stop,stop_position,34.7034091,135.4975597
+merge::wikidata::Q20023053,wikidata::Q20023053,Umeda,梅田,node::7811945042,node/7811945042,M16,Q20023053,Osaka Metro,大阪市営地下鉄御堂筋線,stop,stop_position,34.7034172,135.4976136
+merge::wikidata::Q20080133,wikidata::Q20080133,Namba,なんば,node::534133830,node/534133830,M20,Q20080133,Osaka Metro,,stop,stop_position,34.6661576,135.5002425
+merge::wikidata::Q20080133,wikidata::Q20080133,Namba,なんば,node::537510121,node/537510121,Y15,Q20080133,Osaka Metro,Osaka Metro四つ橋線,stop,stop_position,34.6663446,135.4976228
+merge::wikidata::Q20080133,wikidata::Q20080133,Namba,なんば,node::7811945079,node/7811945079,M20,Q20080133,Osaka Metro,,stop,stop_position,34.6661554,135.5002995
+merge::wikidata::Q20080133,wikidata::Q20080133,Namba,なんば,node::7893338379,node/7893338379,Y15,Q20080133,Osaka Metro,Osaka Metro四つ橋線,stop,stop_position,34.666319,135.4975716
+merge::wikidata::Q2056658,wikidata::Q2056658,Senri-Chūō,千里中央,node::6734976278,node/6734976278,M08,Q2056658,,,stop,stop_position,34.8098942,135.495112
+merge::wikidata::Q2056658,wikidata::Q2056658,Senri-Chūō,千里中央,node::7811945104,node/7811945104,M08,Q2056658,,,stop,stop_position,34.8098982,135.4949855
+merge::wikidata::Q2066656,wikidata::Q2066656,Ebisucho,恵美須町,node::538718294,node/538718294,K18,Q2066656,,,stop,stop_position,34.6556032,135.5056325
+merge::wikidata::Q2066656,wikidata::Q2066656,Ebisucho,恵美須町,node::8260808090,node/8260808090,K18,Q2066656,,,stop,stop_position,34.6555986,135.5056863
+merge::wikidata::Q2084603,wikidata::Q2084603,Tengachaya,天下茶屋,node::538718233,node/538718233,K20,Q2084603,,,stop,stop_position,34.637686,135.4971083
+merge::wikidata::Q2084603,wikidata::Q2084603,Tengachaya,天下茶屋,node::8260835841,node/8260835841,K20,Q2084603,,,stop,stop_position,34.6376745,135.4971668
+merge::wikidata::Q2520333,wikidata::Q2520333,Nakatsu,中津,node::534135526,node/534135526,M15,Q2520333,Osaka Metro,,stop,stop_position,34.7110541,135.4968116
+merge::wikidata::Q2520333,wikidata::Q2520333,Nakatsu,中津,node::7811945033,node/7811945033,M15,Q2520333,Osaka Metro,,stop,stop_position,34.711026,135.4968501
+merge::wikidata::Q291023,wikidata::Q291023,Yotsubashi,四ツ橋,node::537510136,node/537510136,Y14,Q291023,Osaka Metro,,stop,stop_position,34.6740351,135.496782
+merge::wikidata::Q291023,wikidata::Q291023,Yotsubashi,四ツ橋,node::7893381687,node/7893381687,Y14,Q291023,Osaka Metro,,stop,stop_position,34.6740381,135.4967318
+merge::wikidata::Q29457,wikidata::Q29457,Fuminosato,文の里,node::536381080,node/536381080,T29,Q29457,Osaka Metro,,stop,stop_position,34.636174,135.5180147
+merge::wikidata::Q29457,wikidata::Q29457,Fuminosato,文の里,node::8256784504,node/8256784504,T29,Q29457,Osaka Metro,,stop,stop_position,34.6361462,135.5179718
+merge::wikidata::Q304193,wikidata::Q304193,Nishi-Nagahori,西長堀,node::538721465,node/538721465,N13,Q304193,Osaka Metro,,stop,stop_position,34.6756856,135.4869091
+merge::wikidata::Q304193,wikidata::Q304193,Nishi-Nagahori,西長堀,node::7948009768,node/7948009768,N13,Q304193,Osaka Metro,,stop,stop_position,34.6757278,135.4869076
+merge::wikidata::Q4784030,wikidata::Q4784030,Aramoto,荒本,node::4451970055,node/4451970055,C24,Q4784030,近畿日本鉄道,,stop,stop_position,34.678583,135.604899
+merge::wikidata::Q4784030,wikidata::Q4784030,Aramoto,荒本,node::7956414221,node/7956414221,C24,Q4784030,近畿日本鉄道,,stop,stop_position,34.678627,135.6048978
+merge::wikidata::Q5517679,wikidata::Q5517679,Gakken-Nara-Tomigaoka,学研奈良登美ヶ丘,node::7956414209,node/7956414209,C30,Q5517679,近畿日本鉄道,近畿日本鉄道けいはんな線,stop,stop_position,34.7264941,135.752186
+merge::wikidata::Q5517679,wikidata::Q5517679,Gakken-Nara-Tomigaoka,学研奈良登美ヶ丘,node::7956414210,node/7956414210,C30,Q5517679,近畿日本鉄道,近畿日本鉄道けいはんな線,stop,stop_position,34.7266192,135.7521799
+merge::wikidata::Q59341,wikidata::Q59341,Momoyamadai,桃山台,node::359799583,node/359799583,M09,Q59341,,,stop,stop_position,34.7931201,135.497377
+merge::wikidata::Q59341,wikidata::Q59341,Momoyamadai,桃山台,node::7811945105,node/7811945105,M09,Q59341,,,stop,stop_position,34.7931051,135.4972611
+merge::wikidata::Q59455,wikidata::Q59455,Ryokuchi-kōen,緑地公園,node::359799758,node/359799758,,Q59455,,,stop,stop_position,34.7754202,135.4954007
+merge::wikidata::Q59455,wikidata::Q59455,Ryokuchi-kōen,緑地公園,node::7811945107,node/7811945107,,Q59455,,,stop,stop_position,34.7754251,135.4953576
+merge::wikidata::Q5996117,wikidata::Q5996117,Ikoma,生駒,node::7956414213,node/7956414213,C27,Q5996117,,,stop,stop_position,34.6932723,135.6980818
+merge::wikidata::Q5996117,wikidata::Q5996117,Ikoma,生駒,node::7956414214,node/7956414214,C27,Q5996117,,,stop,stop_position,34.6933716,135.6980683
+merge::wikidata::Q666822,wikidata::Q666822,Dome-mae Chiyozaki,ドーム前千代崎,node::538721427,node/538721427,N12,Q666822,Osaka Metro,,stop,stop_position,34.6714438,135.4795155
+merge::wikidata::Q666822,wikidata::Q666822,Dome-mae Chiyozaki,ドーム前千代崎,node::7948009754,node/7948009754,N12,Q666822,Osaka Metro,,stop,stop_position,34.6714613,135.4794668
+merge::wikidata::Q681742,wikidata::Q681742,Dainichi,大日,node::536383273,node/536383273,T11,Q681742,Osaka Metro,,stop,stop_position,34.7498446,135.5787996
+merge::wikidata::Q681742,wikidata::Q681742,Dainichi,大日,node::8256784578,node/8256784578,T11,Q681742,Osaka Metro,,stop,stop_position,34.7498774,135.578761
+merge::wikidata::Q7498268,wikidata::Q7498268,Shiraniwadai,白庭台,node::4451876477,node/4451876477,C28,Q7498268,近畿日本鉄道,,stop,stop_position,34.7210103,135.7168012
+merge::wikidata::Q7498268,wikidata::Q7498268,Shiraniwadai,白庭台,node::538727444,node/538727444,C28,Q7498268,近畿日本鉄道,,stop,stop_position,34.7210306,135.7167792
+merge::wikidata::Q8055962,wikidata::Q8055962,Yoshita,吉田,node::7956414218,node/7956414218,C25,Q8055962,近畿日本鉄道,,stop,stop_position,34.6802493,135.6230088
+merge::wikidata::Q8055962,wikidata::Q8055962,Yoshita,吉田,node::7956414219,node/7956414219,C25,Q8055962,近畿日本鉄道,,stop,stop_position,34.6802873,135.6230041
+merge::wikidata::Q8055973,wikidata::Q8055973,Gakken-Kita-Ikoma,学研北生駒,node::7956414211,node/7956414211,C29,Q8055973,近畿日本鉄道,,stop,stop_position,34.7248341,135.7232261
+merge::wikidata::Q8055973,wikidata::Q8055973,Gakken-Kita-Ikoma,学研北生駒,node::7956414212,node/7956414212,C29,Q8055973,近畿日本鉄道,,stop,stop_position,34.7248154,135.7232483
+merge::wikidata::Q83600,wikidata::Q83600,Higashi-Umeda,東梅田,node::536381581,node/536381581,T20,Q83600,Osaka Metro,,stop,stop_position,34.7005975,135.4998423
+merge::wikidata::Q83600,wikidata::Q83600,Higashi-Umeda,東梅田,node::8256784392,node/8256784392,T20,Q83600,Osaka Metro,,stop,stop_position,34.7005887,135.4997884
+merge::wikidata::Q83601,wikidata::Q83601,Nakazakicho,中崎町,node::536381961,node/536381961,T19,Q83601,Osaka Metro,Osaka Metro谷町線,stop,stop_position,34.7072106,135.5056426
+merge::wikidata::Q83601,wikidata::Q83601,Nakazakicho,中崎町,node::8256784405,node/8256784405,T19,Q83601,Osaka Metro,Osaka Metro谷町線,stop,stop_position,34.7072428,135.5056046
+merge::wikidata::Q83603,wikidata::Q83603,Shitannoji-mae Yuhigaoka,四天王寺前夕陽ヶ丘,node::536381513,node/536381513,T26,Q83603,Osaka Metro,,stop,stop_position,34.6588133,135.5142748
+merge::wikidata::Q83603,wikidata::Q83603,Shitannoji-mae Yuhigaoka,四天王寺前夕陽ヶ丘,node::8256784539,node/8256784539,T26,Q83603,Osaka Metro,,stop,stop_position,34.6588196,135.5142208
+merge::wikidata::Q83604,wikidata::Q83604,Miyakojima,都島,node::536382242,node/536382242,T17,Q83604,Osaka Metro,,stop,stop_position,34.7089478,135.5258614
+merge::wikidata::Q83604,wikidata::Q83604,Miyakojima,都島,node::8256784325,node/8256784325,T17,Q83604,Osaka Metro,,stop,stop_position,34.708993,135.5258559
+merge::wikidata::Q83605,wikidata::Q83605,Sembayashi-Omiya,千林大宮,node::536382857,node/536382857,T14,Q83605,Osaka Metro,,stop,stop_position,34.7242152,135.549279
+merge::wikidata::Q83605,wikidata::Q83605,Sembayashi-Omiya,千林大宮,node::8256784354,node/8256784354,T14,Q83605,Osaka Metro,,stop,stop_position,34.7242281,135.5492267
+merge::wikidata::Q83606,wikidata::Q83606,Sekime-Takadono,関目高殿,node::536382688,node/536382688,T15,Q83606,Osaka Metro,,stop,stop_position,34.7153142,135.5458363
+merge::wikidata::Q83606,wikidata::Q83606,Sekime-Takadono,関目高殿,node::8256784347,node/8256784347,T15,Q83606,Osaka Metro,,stop,stop_position,34.7153528,135.5458083
+merge::wikidata::Q83607,wikidata::Q83607,Noe-Uchindai,野江内代,node::536382450,node/536382450,T16,Q83607,Osaka Metro,,stop,stop_position,34.7093749,135.5385999
+merge::wikidata::Q83607,wikidata::Q83607,Noe-Uchindai,野江内代,node::8256784337,node/8256784337,T16,Q83607,Osaka Metro,,stop,stop_position,34.709411,135.5385567
+merge::wikidata::Q83608,wikidata::Q83608,Moriguchi,守口,node::536383193,node/536383193,T12,Q83608,Osaka Metro,,stop,stop_position,34.7384473,135.5644017
+merge::wikidata::Q83608,wikidata::Q83608,Moriguchi,守口,node::8256784369,node/8256784369,T12,Q83608,Osaka Metro,,stop,stop_position,34.7384796,135.5643638
+merge::wikidata::Q843811,wikidata::Q843811,Ogimachi,扇町,node::538718392,node/538718392,,Q843811,Osaka Metro,大阪市営地下鉄堺筋線,stop,stop_position,34.704475,135.5108165
+merge::wikidata::Q843811,wikidata::Q843811,Ogimachi,扇町,node::8260835838,node/8260835838,,Q843811,Osaka Metro,大阪市営地下鉄堺筋線,stop,stop_position,34.7044749,135.5108719
+merge::wikidata::Q949884,wikidata::Q949884,Imazato,今里,node::12508256193,node/12508256193,I21,Q949884,Osaka Metro,,stop,stop_position,34.6701679,135.5430271
+merge::wikidata::Q949884,wikidata::Q949884,Imazato,今里,node::538724115,node/538724115,I21,Q949884,Osaka Metro,,stop,stop_position,34.670162,135.5430853
